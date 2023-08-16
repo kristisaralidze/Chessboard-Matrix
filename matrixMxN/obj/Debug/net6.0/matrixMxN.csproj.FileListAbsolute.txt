@@ -1,0 +1,45 @@
+C:\Users\Kristine\Downloads\matrixMxN\bin\Debug\net6.0\matrixMxN.exe
+C:\Users\Kristine\Downloads\matrixMxN\bin\Debug\net6.0\matrixMxN.deps.json
+C:\Users\Kristine\Downloads\matrixMxN\bin\Debug\net6.0\matrixMxN.runtimeconfig.json
+C:\Users\Kristine\Downloads\matrixMxN\bin\Debug\net6.0\matrixMxN.dll
+C:\Users\Kristine\Downloads\matrixMxN\bin\Debug\net6.0\matrixMxN.pdb
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.csproj.AssemblyReference.cache
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.AssemblyInfoInputs.cache
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.AssemblyInfo.cs
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.csproj.CoreCompileInputs.cache
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.dll
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\refint\matrixMxN.dll
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.pdb
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\matrixMxN.genruntimeconfig.cache
+C:\Users\Kristine\Downloads\matrixMxN\obj\Debug\net6.0\ref\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\bin\Debug\net6.0\matrixMxN.exe
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\bin\Debug\net6.0\matrixMxN.deps.json
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\bin\Debug\net6.0\matrixMxN.runtimeconfig.json
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\bin\Debug\net6.0\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\bin\Debug\net6.0\matrixMxN.pdb
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.csproj.AssemblyReference.cache
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.AssemblyInfoInputs.cache
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.AssemblyInfo.cs
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.csproj.CoreCompileInputs.cache
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\refint\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.pdb
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\matrixMxN.genruntimeconfig.cache
+C:\Users\Kristine\OneDrive\Desktop\oop 1 davaleba\matrixMxN\obj\Debug\net6.0\ref\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\bin\Debug\net6.0\matrixMxN.exe
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\bin\Debug\net6.0\matrixMxN.deps.json
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\bin\Debug\net6.0\matrixMxN.runtimeconfig.json
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\bin\Debug\net6.0\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\bin\Debug\net6.0\matrixMxN.pdb
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.csproj.AssemblyReference.cache
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.AssemblyInfoInputs.cache
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.AssemblyInfo.cs
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.csproj.CoreCompileInputs.cache
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\refint\matrixMxN.dll
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.pdb
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\matrixMxN.genruntimeconfig.cache
+C:\Users\Kristine\OneDrive\Desktop\ooop assingment 1\matrixMxN\obj\Debug\net6.0\ref\matrixMxN.dll
